@@ -1,3 +1,31 @@
+
+![Screenshot (7)](https://github.com/sigma-avi/Quiz-App/assets/134030689/33884645-dd31-4f69-baab-a5079dde082d)
+
+![Screenshot (8)](https://github.com/sigma-avi/Quiz-App/assets/134030689/89f55616-28fe-4cf6-b72a-05e3bbda7acf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
